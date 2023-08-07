@@ -1,0 +1,21 @@
+{
+    "name": "thefunpower/url_acl",
+    "type": "library",
+    "description": "基于URL的权限",
+    "keywords": ["php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ken.sun",
+            "email": "sunkangchina@163.com" 
+        }
+    ],
+    "require": {
+        
+    }, 
+    "autoload": { 
+        "files": [ 
+            "./helper.php"
+        ]
+    }
+}

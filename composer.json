@@ -3,7 +3,7 @@
     "type": "library",
     "description": "基于URL的权限",
     "keywords": ["php"],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "ken" 

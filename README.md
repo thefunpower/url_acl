@@ -44,5 +44,5 @@ print_r(url_acl("管理员"));
 
 
 ### 开源协议 
-
-The [MIT](LICENSE) License (MIT)
+ 
+[Apache License 2.0](LICENSE)
